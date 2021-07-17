@@ -11,7 +11,7 @@ function [ treecollection ] = RorderandLinear_15_Dataset()
 % Dependency: tree data structure from tinevez-matlab-tree-3d13d15
 
 % dataset path
-dr='G:\Contribution1\gyglim code\SumMe_dataset\videos\RorderingDATASET';
+dr='.\data';
 
 list=dir([dr,'\*.avi']);
 
